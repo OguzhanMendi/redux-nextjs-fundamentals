@@ -1,9 +1,7 @@
-
-
 export default function Home() {
   return (
     <>
-    <h1>TEST</h1>
+      <h1 className="text-3xl">test</h1>
     </>
-  )
+  );
 }
